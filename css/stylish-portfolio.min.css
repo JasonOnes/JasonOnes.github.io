@@ -84,6 +84,18 @@ h4 {
 .text-primary{color:#1d809f!important}
 .text-secondary{color:#ecb807!important}
 
-/* #bottom {
-    background-color: #1d809f;
-} */
+
+.jumbotron {
+    background-color: #ecb807;
+}
+.jumbotron .display-4 {
+    text-align: center;
+    color: #1d809f;
+    text-emphasis: bold;
+    font-size: 6rem;
+  
+  }
+
+  .jumbotron .lead {
+      text-align: center;
+  }
