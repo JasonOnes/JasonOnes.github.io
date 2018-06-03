@@ -148,3 +148,8 @@ footer.footer{padding-top:5rem;padding-bottom:5rem}footer.footer .social-link{di
       text-align: center;
   }
 
+  #coding-tools {
+      background-color: #1d809f;
+      border-radius: 2rem;
+  }
+
