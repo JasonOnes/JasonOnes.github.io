@@ -45,6 +45,9 @@ h4 {
     padding:0;
     color: #1d809f;
 }
+.masthead em {
+    color: #ecb807; 
+}
 @media (min-width:992px){.masthead{height:100vh}
 .masthead h1{font-size:5.5rem}}
 #sidebar-wrapper{position:fixed;z-index:2;right:0;width:250px;height:100%;-webkit-transition:all .4s ease 0s;-moz-transition:all .4s ease 0s;-ms-transition:all .4s ease 0s;-o-transition:all .4s ease 0s;transition:all .4s ease 0s;transform:translateX(250px);background:#1d809f;border-left:1px solid rgba(255,255,255,.1)}
@@ -146,6 +149,7 @@ footer.footer{padding-top:5rem;padding-bottom:5rem}footer.footer .social-link{di
 
   .jumbotron .lead {
       text-align: center;
+      color: white;
   }
 
   #coding-tools {
@@ -153,3 +157,27 @@ footer.footer{padding-top:5rem;padding-bottom:5rem}footer.footer .social-link{di
       border-radius: 2rem;
   }
 
+  .list-group {
+    padding: 2rem;
+    margin-bottom: 1rem;
+    
+  }
+  .list-group small {
+    color: darkslategray;
+  }
+
+  .list-group .list-group-item {
+      margin-bottom: 1rem;
+      border-radius: 1rem;
+  }
+
+  .p-2 {
+      /* background-color: red; */
+      margin-top: 4rem;
+  }
+
+  #addendum {
+      /* background-color: #155d74; */
+      /* padding-top: 95%; */
+      
+  }
