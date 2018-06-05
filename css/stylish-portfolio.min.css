@@ -152,11 +152,9 @@ footer.footer{padding-top:5rem;padding-bottom:5rem}footer.footer .social-link{di
       color: white;
   }
 
-  #coding-tools {
-      background-color: #1d809f;
-      border-radius: 2rem;
-  }
+ 
 
+  /* READING list */
   .list-group {
     padding: 2rem;
     margin-bottom: 1rem;
@@ -171,6 +169,7 @@ footer.footer{padding-top:5rem;padding-bottom:5rem}footer.footer .social-link{di
       border-radius: 1rem;
   }
 
+  /* home desk link */
   .p-2 {
       /* background-color: red; */
       margin-top: 4rem;
@@ -181,3 +180,14 @@ footer.footer{padding-top:5rem;padding-bottom:5rem}footer.footer .social-link{di
       /* padding-top: 95%; */
       
   }
+
+  /* coding skill */
+  #coding-tools {
+    background-color: #1d809f;
+    border-radius: 2rem;
+}
+
+#coding-tools li{
+    text-align: center;
+    list-style-type: none;
+}
